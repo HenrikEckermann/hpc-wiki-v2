@@ -22,7 +22,7 @@ If your compute jobs on the cluster produce intermediate data during the process
 * Data I/O on local drive is faster than on the home and project directory provided by a network-attached storage.
 * It saves storage space in your home or project directory.
 
-The scratch drive on the compute node is mounted on the path of ``/data``.  A general approach of storing data on it is to create a subdirectory under the ``/data`` path, and make the name specific to your job.  For exampl, you could introduce a new environment variable in the BASH shell called ``LOCAL_SCATCH_DIR`` in the following way:
+The scratch drive on the compute node is mounted on the path of ``/data``.  A general approach of storing data on it is to create a subdirectory under the ``/data`` path, and make the name specific to your job.  For example, you could introduce a new environment variable in the BASH shell called ``LOCAL_SCATCH_DIR`` in the following way:
 
 .. code-block:: bash
 
