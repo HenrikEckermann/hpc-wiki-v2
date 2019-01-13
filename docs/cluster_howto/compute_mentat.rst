@@ -1,7 +1,7 @@
 Running computations on the Mentat compute nodes
 ************************************************
 
-From one of the cluster's access node, you can login to one of the mentat compute nodes via SSH and run computations. The mentat comput nodes are namde from ``mentat203`` to ``mentat208``.  Each of them is equipped with 4 CPU cores and 16 gigabytes of memory.
+From one of the cluster's access node, you can login to one of the mentat compute nodes via SSH and run computations. The mentat comput nodes are named from ``mentat203`` to ``mentat208``.  Each of them is equipped with 4 CPU cores and 16 gigabytes of memory.
 
 The mentat compute nodes are designed to support the following use cases:
 
