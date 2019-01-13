@@ -17,7 +17,7 @@ Every job is submitted to the Torque cluster with a set of resource requirement 
 Resource sharing and job prioritisation
 =======================================
 
-For optimising the utilisation of the resources of the Torque cluster, certain resource-sharing and job prioritisation policies are applied to jobs submitted to the cluster.  The implications to users can be seen from the the three aspects: **job queues**, **throttling policies for resource usage** and **job prioritisation**.
+For optimising the utilisation of the resources of the Torque cluster, certain resource-sharing and job prioritisation policies are applied to jobs submitted to the cluster.  The implications to users can be seen from the three aspects: **job queues**, **throttling policies for resource usage** and **job prioritisation**.
 
 Job queues
 ----------
